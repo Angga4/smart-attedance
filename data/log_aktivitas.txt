@@ -1,0 +1,6 @@
+[2026-07-24 19:02:29] Absen tercatat: 2508300001 - Hadir
+[2026-07-24 19:03:01] Absen tercatat: 2508300002 - Sakit
+[2026-07-24 19:03:25] Absen tercatat: 2508300003 - Hadir
+[2026-07-24 19:04:03] Absen tercatat: 2508300004 - Hadir
+[2026-07-24 19:06:11] Absen tercatat: 2508300005 - Sakit
+[2026-07-24 19:16:34] Absen tercatat: 2508300001 - Hadir
